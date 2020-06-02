@@ -1,0 +1,5 @@
+print(10+20)
+print(50-10)
+print(20*20)
+print(7%2)
+print(7/2)
