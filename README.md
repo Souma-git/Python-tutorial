@@ -1,5 +1,5 @@
 # Python-tutorial
-larning git
+learning git
 ---
 - git init
 - git clone
