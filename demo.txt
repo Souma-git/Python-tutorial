@@ -1,0 +1,8 @@
+Biodata
+-------
+Name: Soumadip Dey
+Age:22
+Education:B.tech in cse
+Blood Group: O+
+
+
